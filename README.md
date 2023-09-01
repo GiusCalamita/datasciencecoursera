@@ -11,3 +11,5 @@ This is a second line from RStudio to be sure I've got how it works.This is a li
 \n This is a NEWline I wrote from my local laptop  
 
 This is a line from RSTUDIO on LAPTOP
+
+Yet another modi*fica*tion
