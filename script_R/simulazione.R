@@ -1,0 +1,5 @@
+dati <- matrix(ncol=500, nrow=500)
+for(i in 1:500)
+dati[i,] <- rnorm(500)
+medie <- apply(dati, 2, mean)
+plot(density(dati))
