@@ -9,3 +9,5 @@ This is a line from RStudio
 
 This is a second line from RStudio to be sure I've got how it works.This is a line I wrote from my local laptop  
 \n This is a NEWline I wrote from my local laptop  
+
+This is a line from RSTUDIO on LAPTOP
